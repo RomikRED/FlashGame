@@ -1,0 +1,108 @@
+<level width="640" height="480">
+  <S0_Welcome>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_WELCOME" />
+    <Button id="1" x="320" y="340" width="120" height="120" callback="onPlay" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="2" x="460" y="40" width="120" height="120" callback="onCredits" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="3" x="580" y="40" width="40" height="20" callback="onOptions" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+  </S0_Welcome>
+  <S1_StartLevels>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_WELCOME" />
+    <Button id="1" x="370" y="180" width="40" height="20" callback="onStage" argument="4" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="60" />
+    <Button id="2" x="370" y="260" width="40" height="20" callback="onStage" argument="3" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="60" />
+    <Button id="3" x="370" y="340" width="40" height="20" callback="onStage" argument="2" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="60" />
+    <Button id="4" x="370" y="420" width="40" height="20" callback="onStage" argument="1" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="60" />
+    <Button id="5" x="580" y="420" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="6" x="260" y="60" width="40" height="20" callback="onAchieve" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="7" x="100" y="60" width="40" height="20" callback="onAmmoShop" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="5" x="580" y="40" width="40" height="20" callback="onOptions" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+  </S1_StartLevels>
+  <S11_Stage1>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_STAGE1" />
+    <Button id="1" x="370" y="320" width="40" height="20" callback="onLevel" argument="4" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="2" x="370" y="360" width="40" height="20" callback="onLevel" argument="3" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="3" x="370" y="400" width="40" height="20" callback="onLevel" argument="2" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="4" x="370" y="440" width="40" height="20" callback="onLevel" argument="1" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="5" x="580" y="40" width="40" height="20" callback="onOptions" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="8" x="580" y="420" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+  </S11_Stage1>
+  <S12_Stage2>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_STAGE2" />
+    <Button id="1" x="370" y="260" width="40" height="20" callback="onLevel" argument="8" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="2" x="370" y="300" width="40" height="20" callback="onLevel" argument="7" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="3" x="370" y="340" width="40" height="20" callback="onLevel" argument="6" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="4" x="370" y="380" width="40" height="20" callback="onLevel" argument="5" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="5" x="580" y="40" width="40" height="20" callback="onOptions" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="8" x="580" y="420" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+  </S12_Stage2>
+  <S13_Stage3>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_STAGE3" />
+    <Button id="1" x="370" y="200" width="40" height="20" callback="onLevel" argument="12" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="2" x="370" y="240" width="40" height="20" callback="onLevel" argument="11" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="3" x="370" y="280" width="40" height="20" callback="onLevel" argument="10" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="4" x="370" y="320" width="40" height="20" callback="onLevel" argument="9" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="5" x="580" y="40" width="40" height="20" callback="onOptions" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="8" x="580" y="420" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+  </S13_Stage3>
+  <S14_Stage4>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_STAGE4" />
+    <Button id="1" x="370" y="100" width="40" height="20" callback="onLevel" argument="16" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="2" x="370" y="140" width="40" height="20" callback="onLevel" argument="15" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="3" x="370" y="180" width="40" height="20" callback="onLevel" argument="14" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="4" x="370" y="220" width="40" height="20" callback="onLevel" argument="13" assetName="ICOS_SEL" assetFrameWidth="240" assetFrameHeight="30" />
+    <Button id="5" x="580" y="40" width="40" height="20" callback="onOptions" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="8" x="580" y="420" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+  </S14_Stage4>
+  <S15_Achievements>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_ACHIEVE" />
+    <Button id="1" x="580" y="420" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="2" x="100" y="100" width="40" height="20" callback="onAchieveView" argument="1" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="3" x="100" y="160" width="40" height="20" callback="onAchieveView" argument="2" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="4" x="100" y="220" width="40" height="20" callback="onAchieveView" argument="3" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="5" x="100" y="280" width="40" height="20" callback="onAchieveView" argument="4" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="6" x="100" y="340" width="40" height="20" callback="onAchieveView" argument="5" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="7" x="320" y="100" width="40" height="20" callback="onAchieveView" argument="6" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="8" x="320" y="160" width="40" height="20" callback="onAchieveView" argument="7" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="9" x="320" y="220" width="40" height="20" callback="onAchieveView" argument="8" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="10" x="320" y="280" width="40" height="20" callback="onAchieveView" argument="9" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="11" x="320" y="340" width="40" height="20" callback="onAchieveView" argument="10" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="12" x="540" y="100" width="40" height="20" callback="onAchieveView" argument="11" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="13" x="540" y="160" width="40" height="20" callback="onAchieveView" argument="12" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="14" x="540" y="220" width="40" height="20" callback="onAchieveView" argument="13" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="15" x="540" y="280" width="40" height="20" callback="onAchieveView" argument="14" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+    <Button id="16" x="540" y="340" width="40" height="20" callback="onAchieveView" argument="15" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="40" />
+  </S15_Achievements>
+  <S16_AmmoShop>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_AMMOSHOP" />
+    <Button id="2" x="580" y="420" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="1" x="60" y="200" width="40" height="20" callback="onAmmoShopNav" argument="1" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="3" x="580" y="200" width="40" height="20" callback="onAmmoShopNav" argument="2" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="4" x="320" y="200" width="40" height="20" callback="onBuyAmmo" argument="1" assetName="BTN_AMMO" assetFrameWidth="220" assetFrameHeight="160" />
+    <Button id="5" x="320" y="200" width="40" height="20" callback="onBuyAmmo" argument="2" assetName="BTN_AMMO" assetFrameWidth="220" assetFrameHeight="160" />
+    <Button id="6" x="320" y="200" width="40" height="20" callback="onBuyAmmo" argument="3" assetName="BTN_AMMO" assetFrameWidth="220" assetFrameHeight="160" />
+  </S16_AmmoShop>
+  <S2_Credits>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_CREDITS" />
+    <Button id="1" x="580" y="420" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Text id="2" x="100" y="100" width="20" height="20" text="input text here!!!" textSize="20" />
+  </S2_Credits>
+  <S3_Options>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_OPTIONS" />
+    <Button id="1" x="300" y="80" width="40" height="20" callback="onSounds" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="2" x="300" y="220" width="40" height="20" callback="onMusics" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="8" x="580" y="420" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="3" x="300" y="360" width="40" height="20" callback="onHints" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+  </S3_Options>
+  <LOOSE>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_LOOSE" />
+    <Button id="1" x="360" y="280" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="2" x="260" y="280" width="40" height="20" callback="onReplay" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Text id="3" x="200" y="140" width="20" height="20" text="GAME OVER :(" textSize="50" />
+  </LOOSE>
+  <WIN>
+    <Background id="0" x="0" y="0" width="640" height="480" assetName="BCKGR_WIN" />
+    <Button id="1" x="440" y="280" width="40" height="20" callback="onReturn" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="2" x="300" y="280" width="40" height="20" callback="onNextLevel" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Button id="3" x="140" y="280" width="40" height="20" callback="onReplay" argument="0" assetName="ICOS" assetFrameWidth="120" assetFrameHeight="120" />
+    <Text id="4" x="200" y="140" width="20" height="20" text="YOU WIN!" textSize="50" />
+  </WIN>
+</level>

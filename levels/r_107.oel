@@ -1,0 +1,9 @@
+<level width="1920" height="1080">
+  <backs>
+    <back11 id="0" x="0" y="0" width="1920" height="1080" />
+    <spawnpoint id="1" x="200" y="560" />
+    <spawnpoint id="2" x="440" y="560" />
+    <spawnpoint id="3" x="720" y="560" />
+    <spawnpoint id="4" x="1160" y="560" />
+  </backs>
+</level>

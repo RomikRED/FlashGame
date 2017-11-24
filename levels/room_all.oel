@@ -1,0 +1,106 @@
+<level width="1920" height="1080">
+  <room1>
+    <back1 id="0" x="0" y="0" numbBack="1" />
+    <spawnpoint id="1" x="440" y="560" />
+    <spawnpoint id="2" x="720" y="560" />
+    <spawnpoint id="3" x="1000" y="560" />
+  </room1>
+  <room2>
+    <back2 id="0" x="0" y="0" numbBack="2" />
+    <spawnpoint id="1" x="320" y="480" />
+    <spawnpoint id="2" x="600" y="480" />
+    <spawnpoint id="3" x="880" y="480" />
+    <spawnpoint id="4" x="1160" y="480" />
+  </room2>
+  <room3>
+    <back3 id="0" x="0" y="0" numbBack="3" />
+    <spawnpoint id="1" x="360" y="440" />
+    <spawnpoint id="2" x="680" y="440" />
+    <spawnpoint id="3" x="880" y="440" />
+  </room3>
+  <room4>
+    <back4 id="0" x="0" y="0" numbBack="4" />
+    <spawnpoint id="1" x="480" y="440" />
+    <spawnpoint id="2" x="880" y="440" />
+    <spawnpoint id="3" x="1200" y="440" />
+  </room4>
+  <room5>
+    <back5 id="0" x="0" y="0" numbBack="5" />
+    <spawnpoint id="1" x="160" y="520" />
+    <spawnpoint id="2" x="440" y="520" />
+    <spawnpoint id="3" x="760" y="520" />
+    <spawnpoint id="4" x="1120" y="520" />
+  </room5>
+  <room6>
+    <back6 id="0" x="0" y="0" numbBack="6" />
+    <spawnpoint id="1" x="680" y="440" />
+    <spawnpoint id="2" x="1000" y="440" />
+    <spawnpoint id="3" x="1320" y="440" />
+  </room6>
+  <room7>
+    <back7 id="0" x="0" y="0" numbBack="7" />
+    <spawnpoint id="1" x="760" y="440" />
+    <spawnpoint id="2" x="1040" y="440" />
+    <spawnpoint id="3" x="1320" y="440" />
+  </room7>
+  <room8>
+    <back8 id="0" x="0" y="0" numbBack="8" />
+    <spawnpoint id="1" x="440" y="440" />
+    <spawnpoint id="2" x="800" y="440" />
+    <spawnpoint id="3" x="1200" y="440" />
+  </room8>
+  <room9>
+    <back9 id="0" x="0" y="0" numbBack="9" />
+    <spawnpoint id="1" x="520" y="520" />
+    <spawnpoint id="2" x="920" y="520" />
+    <spawnpoint id="3" x="1240" y="520" />
+  </room9>
+  <room10>
+    <back10 id="0" x="0" y="0" numbBack="10" />
+    <spawnpoint id="1" x="320" y="440" />
+    <spawnpoint id="2" x="640" y="440" />
+    <spawnpoint id="3" x="1000" y="440" />
+  </room10>
+  <room11>
+    <back11 id="0" x="0" y="0" numbBack="11" />
+    <spawnpoint id="1" x="200" y="560" />
+    <spawnpoint id="2" x="440" y="560" />
+    <spawnpoint id="3" x="720" y="560" />
+    <spawnpoint id="4" x="1160" y="560" />
+    <spawnpoint id="5" x="1480" y="560" />
+  </room11>
+  <room12>
+    <back12 id="0" x="0" y="0" numbBack="12" />
+    <spawnpoint id="1" x="1200" y="440" />
+    <spawnpoint id="2" x="520" y="440" />
+    <spawnpoint id="3" x="880" y="440" />
+  </room12>
+  <room13>
+    <back13 id="0" x="0" y="0" numbBack="13" />
+    <spawnpoint id="1" x="160" y="440" />
+    <spawnpoint id="2" x="480" y="440" />
+    <spawnpoint id="3" x="880" y="440" />
+    <spawnpoint id="4" x="1240" y="440" />
+  </room13>
+  <room14>
+    <back14 id="0" x="0" y="0" numbBack="14" />
+    <spawnpoint id="1" x="320" y="480" />
+    <spawnpoint id="2" x="560" y="480" />
+    <spawnpoint id="3" x="880" y="440" />
+    <spawnpoint id="4" x="1200" y="440" />
+  </room14>
+  <room15>
+    <back15 id="0" x="0" y="0" numbBack="15" />
+    <spawnpoint id="1" x="520" y="520" />
+    <spawnpoint id="2" x="920" y="520" />
+    <spawnpoint id="3" x="1240" y="520" />
+    <spawnpoint id="4" x="160" y="520" />
+  </room15>
+  <room16>
+    <back16 id="0" x="0" y="0" numbBack="16" />
+    <spawnpoint id="1" x="1480" y="440" />
+    <spawnpoint id="2" x="1160" y="440" />
+    <spawnpoint id="3" x="760" y="440" />
+    <spawnpoint id="4" x="400" y="440" />
+  </room16>
+</level>

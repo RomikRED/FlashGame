@@ -1,0 +1,23 @@
+<level width="1920" height="1080">
+  <room1>
+    <back id="0" x="0" y="0" width="1920" height="1080" numbBack="1" />
+    <spawnpoint id="1" x="440" y="560" />
+    <spawnpoint id="2" x="720" y="560" />
+    <spawnpoint id="3" x="1000" y="560" />
+  </room1>
+  <room2 />
+  <room3 />
+  <room4 />
+  <room5 />
+  <room6 />
+  <room7 />
+  <room8 />
+  <room9 />
+  <room10 />
+  <room11 />
+  <room12 />
+  <room13 />
+  <room14 />
+  <room15 />
+  <room16 />
+</level>
